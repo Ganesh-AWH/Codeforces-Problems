@@ -9,5 +9,6 @@ public class Watermelon{
         }else{
             System.out.println("YES");
         }
+        sc.close();
     }
 }
