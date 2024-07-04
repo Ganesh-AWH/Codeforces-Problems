@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "EasyProblem",
+      "request": "launch",
+      "mainClass": "EasyProblem",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
+      "name": "QueueSchool",
+      "request": "launch",
+      "mainClass": "QueueSchool",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
+      "name": "BeautifulYear",
+      "request": "launch",
+      "mainClass": "BeautifulYear",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
+      "name": "Fence",
+      "request": "launch",
+      "mainClass": "Fence",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
       "name": "Train",
       "request": "launch",
       "mainClass": "Train",
