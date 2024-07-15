@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Presents",
+      "request": "launch",
+      "mainClass": "Presents",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
+      "name": "CalculatingFuction",
+      "request": "launch",
+      "mainClass": "CalculatingFuction",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
+      "name": "GeorgeAccodomation",
+      "request": "launch",
+      "mainClass": "GeorgeAccodomation",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
+      "name": "Panagram",
+      "request": "launch",
+      "mainClass": "Panagram",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
+      "name": "Magnets",
+      "request": "launch",
+      "mainClass": "Magnets",
+      "projectName": "800-900_1107cdcd"
+    },
+    {
+      "type": "java",
       "name": "EasyProblem",
       "request": "launch",
       "mainClass": "EasyProblem",
