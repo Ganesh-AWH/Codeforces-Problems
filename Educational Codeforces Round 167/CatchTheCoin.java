@@ -5,7 +5,7 @@ public class CatchTheCoin {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         while(n-->0){
-            int x = sc.nextInt();
+            // int x = sc.nextInt();
             int y = sc.nextInt();
             if(-1<=y){
                 System.out.println("YES");
